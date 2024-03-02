@@ -1,4 +1,7 @@
 # Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance
+
+(CODE WILL RELEASE SOON!!)
+
 We provide a Pytorch implement code of paper "Few-Shot Bearing Fault Diagnosis via Ensembling
 Transformer-based Model with Mahalanobis
 Distance Metric Learning from Multiscale Features" accepted by IEEE Transactions on Instrumentation and Measurement.
