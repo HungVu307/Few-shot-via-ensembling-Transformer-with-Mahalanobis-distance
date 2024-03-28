@@ -51,3 +51,15 @@ python test_5shot.py --dataset 'CWRU' --best_weight 'PATH TO BEST WEIGHT'
 Please feel free to contact me via email hung.vm195780@sis.hust.edu.vn or vumanhhung07.work@gmail.com if you need anything related to this repo!
 ## Citation
 If you feel this code is useful, please give us 1 ⭐ and cite our paper.
+```bash
+@ARTICLE{10478558,
+  author={Vu, Manh-Hung and Nguyen, Van-Quang and Tran, Thi-Thao and Pham, Van-Truong and Lo, Men-Tzung},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Few-Shot Bearing Fault Diagnosis via Ensembling Transformer-based Model with Mahalanobis Distance Metric Learning from Multiscale Features}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Data models;Feature extraction;Measurement;Transformers;Kernel;Correlation;Covariance matrices;Few-shot Learning;Fault Bearing Diagnosis;Mahalanobis Metric Learning;Transformer;Multiscale Large Kernel Feature Extraction;Ensemble Classification},
+  doi={10.1109/TIM.2024.3381270}}
+  ```
