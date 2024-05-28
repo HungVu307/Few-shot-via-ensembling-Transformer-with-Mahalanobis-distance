@@ -21,7 +21,7 @@ In this paper, we ultilize 2 datasets: [CWRU](https://engineering.case.edu/beari
 Note, if you use these datasets, please cite the corresponding papers. (Feel free to contact me if you need PU dataset in .pt file)
 
 ## Getting Started
-<!-- - Installation
+- Installation
 ``` bash
 git clone https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance
 ```
@@ -40,7 +40,7 @@ python train_5shot.py --dataset 'CWRU' --training_samples_CWRU 60 --training_sam
 - Testing for 5 shot
 ```bash
 python test_5shot.py --dataset 'CWRU' --best_weight 'PATH TO BEST WEIGHT'
-``` -->
+```
 - Result
 1. CWRU dataset
 ![plot](images/result1.png)
