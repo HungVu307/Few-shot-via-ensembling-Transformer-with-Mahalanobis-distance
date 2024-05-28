@@ -1,7 +1,5 @@
 # Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance
 
-(CODE WILL RELEASE SOON!!)
-
 [Link to paper](https://ieeexplore.ieee.org/document/10478558)
 
 We provide a Pytorch implement code of paper "Few-Shot Bearing Fault Diagnosis via Ensembling
