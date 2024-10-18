@@ -58,3 +58,13 @@ If you feel this code is useful, please give us 1 ⭐ and cite our paper.
   publisher={IEEE}
 }
 ```
+```bash
+@misc{vu2024few,
+  author = {Vu, Manh-Hung and Nguyen, Van-Quang and Tran, Thi-Thao and Pham, Van-Truong and Lo, Men-Tzung},
+  title = {Few-Shot Bearing Fault Diagnosis via Ensembling Transformer-based Model with Mahalanobis Distance Metric Learning from Multiscale Features},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/HungVu307/Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance}},
+}
+```
