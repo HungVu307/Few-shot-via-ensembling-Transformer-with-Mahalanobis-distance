@@ -1,6 +1,8 @@
 # 🚀 News
 🔥 Our paper namely "✨ __Multi-level Few-Shot Model with Selective Aggregation Feature for Bearing Fault Diagnosis__ ✨" has been accepted by IEEE Sensors Letters and will be published soon! The model's code will also be updated soon in this repo (can be found in this folder `multi_level/`). 
 
+[Link to paper](https://ieeexplore.ieee.org/document/10755109)
+
 # Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance
 
 [Link to paper](https://ieeexplore.ieee.org/document/10478558)
