@@ -3,7 +3,7 @@
 
 [Link to paper](https://ieeexplore.ieee.org/document/10755109)
 
-# Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance
+# Few-shot-via-ensembling-Transformer-with-Mahalanobis-distance ![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/few-shot-bearing-fault-diagnosis-via/classification-on-cwru-bearing-dataset)](https://paperswithcode.com/sota/classification-on-cwru-bearing-dataset?p=few-shot-bearing-fault-diagnosis-via)
 
 [Link to paper](https://ieeexplore.ieee.org/document/10478558)
 
